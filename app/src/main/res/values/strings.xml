@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AuthApp</string>
+    <string name="google_description">If you want to access this app,\n first you need to sign in.</string>
+</resources>
