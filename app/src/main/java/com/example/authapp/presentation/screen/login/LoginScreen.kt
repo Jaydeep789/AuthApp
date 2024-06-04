@@ -23,7 +23,7 @@ fun LoginScreen(
                 signedInState = signedInState,
                 messageBarState = messageBarState,
                 onButtonClicked = {
-                    loginViewModel.saveSignedInState(signedIn = true)
+                    loginViewModel.saveSignedInState(signedIn = false)
                 }
             )
         }
